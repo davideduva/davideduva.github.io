@@ -23,7 +23,7 @@ repository               : "davideduva/davideduva.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Davide Pietro Duva"
   pronouns         : # example: "she/her"  
   bio              : "2nd year PhD student at LJLL (Sorbonne Université) - INRIA (Centre de Paris)"
