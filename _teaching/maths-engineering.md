@@ -4,5 +4,5 @@ collection: teaching
 type: "TD & TP"
 permalink: /teaching/maths-engineering
 venue: "Polytech Sorbonne, L3"
-date: "2026"
+period: "First semester 2025/2026"
 ---

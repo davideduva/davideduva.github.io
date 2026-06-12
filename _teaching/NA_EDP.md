@@ -4,5 +4,5 @@ collection: teaching
 type: "TP"
 permalink: /teaching/fourier-analysis
 venue: "Polytech Sorbonne, M1"
-date: "2026"
+period: "Second semester 2025/2026"
 ---
