@@ -1,3 +1,4 @@
 ---
-title: "Future publications will be listed here."
+type: "Future publications will be listed here."
+category: manuscripts
 ---
