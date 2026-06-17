@@ -1,3 +1,3 @@
 ---
-type: "Future talks will be listed here."
+title: "Future talks will be listed here."
 ---

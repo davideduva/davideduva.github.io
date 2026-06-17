@@ -1,4 +1,4 @@
 ---
-type: "Future publications will be listed here."
+title: "Future publications will be listed here."
 category: manuscripts
 ---
