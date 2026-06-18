@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Davide Pietro Duva, a 2nd year PhD student funded by Ecole Doctorale 386. I am part of the [COMMEDIA](https://team.inria.fr/commedia/) team, a joint team between [LJLL](https://www.ljll.fr/) (Sorbonne Université) and [INRIA](https://www.inria.fr/fr/centre-inria-de-paris) (Centre de Paris).
+I am a 2nd year PhD student at the [COMMEDIA](https://team.inria.fr/commedia/) team, a joint team between [LJLL](https://www.ljll.fr/) (Sorbonne Université) and [INRIA](https://www.inria.fr/fr/centre-inria-de-paris) (Centre de Paris), supervised by [Miguel A. Fernández](https://team.inria.fr/commedia/fernandez/) and [Guillaume Delay](https://www.ljll.fr/delay/).
 
-My PhD thesis is titled **"Divergence-free finite elements for direct and inverse problems"** and it is supervised by [Miguel A. Fernández](https://team.inria.fr/commedia/fernandez/) and [Guillaume Delay](https://www.ljll.fr/delay/). It consists of the numerical analysis and implementation of a minimal divergence-free finite element pair for Navier-Stokes equations, to apply in the context of unfitted mesh methods and FSI simulations.
+My PhD thesis is titled **"Divergence-free finite elements for direct and inverse problems"** and my research focuses on the numerical analysis and implementation of divergence-free finite elements for incompressible flows, with applications to unfitted mesh methods and fluid–structure interaction.
 
 ## Research Interests
 
@@ -16,3 +16,7 @@ My PhD thesis is titled **"Divergence-free finite elements for direct and invers
 - Finite element methods
 - Fictitious domain methods
 - Fluid–structure interaction
+
+## Contact
+
+davide-pietro.duva@inria.fr

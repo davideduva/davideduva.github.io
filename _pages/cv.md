@@ -13,10 +13,11 @@ You can find a detailed version of my CV [here](/files/Davide_Pietro_Duva_CV.pdf
 
 Education
 ======
-* Ph.D in Applied Mathematics
+* PhD in Applied Mathematics
   * Title: Divergence-free finite elements for direct and inverse problems
   * Advisors: Guillaume Delay, Miguel A. Fernández
-  * LJLL (Sorbonne Université) - INRIA (Centre de Paris), December 2024 - today
+  * LJLL (Sorbonne Université) - INRIA (Centre de Paris)
+  * December 2024 - today
 * MSc in Mathematical Engineering and Mathématiques de la Modélisation
   * Politecnico di Milano - Sorbonne Université
   * September 2022 - July 2025
@@ -28,13 +29,13 @@ Education
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% unless post.hidden %}{% include archive-single-cv.html %}{% endunless %}
   {% endfor %}</ul>
   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% unless post.hidden %}{% include archive-single-talk-cv.html %}{% endunless %}
   {% endfor %}</ul>
   
 Teaching
