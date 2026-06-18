@@ -24,22 +24,3 @@ Education
 * BSc in Ingegneria Matematica
   * Politecnico di Milano
   * September 2019 - September 2022
-
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% unless post.hidden %}{% include archive-single-cv.html %}{% endunless %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% unless post.hidden %}{% include archive-single-talk-cv.html %}{% endunless %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
