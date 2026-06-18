@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics
+  * Title: Divergence-free finite elements for direct and inverse problems
+  * Advisors: Guillaume Delay, Miguel A. Fernández
+  * LJLL (Sorbonne Université) - INRIA (Centre de Paris), December 2024 - today
+* MSc in Mathematical Engineering and Mathématiques de la Modélisation
+  * Politecnico di Milano - Sorbonne Université
+  * September 2022 - July 2025
+* BSc in Ingegneria Matematica
+  * Politecnico di Milano
+  * September 2019 - September 2022
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+You can find a detailed version of my CV [here](/files/Davide_Pietro_Duva_CV.pdf).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,7 +42,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
