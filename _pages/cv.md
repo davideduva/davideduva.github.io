@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find a detailed version of my CV [here](/files/Davide_Pietro_Duva_CV.pdf).
+
 Education
 ======
 * Ph.D in Applied Mathematics
@@ -21,8 +23,6 @@ Education
 * BSc in Ingegneria Matematica
   * Politecnico di Milano
   * September 2019 - September 2022
-
-You can find a detailed version of my CV [here](/files/Davide_Pietro_Duva_CV.pdf).
 
 
 Publications
